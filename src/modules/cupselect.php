@@ -12,6 +12,7 @@
 	<option value="kanto">Kanto Cup</option>
 	<option value="johto">Johto Cup</option>
 	<option value="hoenn">Hoenn Cup</option>
+	<option value="sinnoh">Sinnoh Cup</option>
 	<option value="uc">Ultra Counter</option>
 	<option value="liguinha3">Liguinha 3</option>
 	
