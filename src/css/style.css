@@ -587,7 +587,7 @@ header {
   margin-top: 15px;
 }
 .poke.multi .rankings-container {
-  max-height: 295px;
+  max-height: 1200px;
 }
 .poke.multi .rankings-container .rank {
   padding: 0 5px;
@@ -1330,7 +1330,7 @@ select, input {
 
 .rankings-container {
   margin-top: 20px;
-  max-height: 400px;
+  max-height: 1200px;
   overflow-y: scroll;
 }
 .rankings-container.threats, .rankings-container.alternatives {
